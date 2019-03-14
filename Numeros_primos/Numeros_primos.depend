@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552530431 source:c:\users\daniel\desktop\ayudantía lenagujes de programacion\numeros_primos\main.c
+	<stdio.h>
+	<stdlib.h>
+
